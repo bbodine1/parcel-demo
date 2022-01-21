@@ -1,0 +1,14 @@
+{
+  "name": "parcel-test",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "parcel watch 'scripts/app/app.js' 'content/styles/new.scss'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.2.1",
+    "parcel": "^2.2.1"
+  }
+}
